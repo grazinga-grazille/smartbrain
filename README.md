@@ -4,4 +4,4 @@ This project detects faces in the images using CLARIFAI API.
 
 ## Technologies used
 
-Node.js, Express.js, Postgresql, Javascript, HTML, CSS, React.js
+Node.js, Express.js, PostgreSQL, Javascript, HTML, CSS, React.js
